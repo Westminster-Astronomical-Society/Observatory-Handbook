@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52mm"
+   height="114mm"
+   viewBox="0 0 52 114"
+   version="1.1"
+   id="svg4209"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="AP_menu-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4211"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4094753"
+     inkscape:cx="222.06845"
+     inkscape:cy="249.38358"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs4206" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.864166,-38.802425)">
+    <g
+       id="g1379">
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975705,1.000243)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3624-0-1"
+         x="61.649429"
+         y="44.799835"><tspan
+           x="61.649429"
+           y="44.799835"
+           sodipodi:role="line"
+           id="tspan3622-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.352692">External Start Screen</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975616,1.0002439)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3632-8-9"
+         x="40.625793"
+         y="50.548168"><tspan
+           x="40.625793"
+           y="50.548168"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4598-9">External Startup</tspan><tspan
+           x="40.625793"
+           y="54.992344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4776">Press Menu to Cancel</tspan><tspan
+           x="40.625793"
+           y="59.43652"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4778">external startup.</tspan></text>
+      <path
+         d="M 39.347246,66.037528 H 84.947939 V 46.457339 H 39.347246 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.405827;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4048-7-7" />
+    </g>
+    <g
+       id="g1370">
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975705,1.000243)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3624-0-11"
+         x="61.651752"
+         y="72.449692"><tspan
+           x="61.651752"
+           y="72.449692"
+           sodipodi:role="line"
+           id="tspan3622-4-59"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.352692">Location Selection Screen</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975616,1.0002439)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3632-8-7"
+         x="40.625854"
+         y="78.197998"><tspan
+           x="40.625854"
+           y="78.197998"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4598-3">Loc.: 1 &lt;Prev Next&gt;</tspan><tspan
+           x="40.625854"
+           y="82.642174"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4789">Lat.: N 39:38:49.9</tspan><tspan
+           x="40.625854"
+           y="87.086349"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4791">Lon.: W 76:59:11.5</tspan><tspan
+           x="40.625854"
+           y="91.530525"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4793">+/- =Edit   ENT=Use</tspan></text>
+      <path
+         d="M 39.347256,93.694045 H 84.947928 V 74.113968 H 39.347256 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.405826;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4048-7-5" />
+    </g>
+    <g
+       id="g1360">
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975705,1.000243)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3624-0-11-5"
+         x="61.671593"
+         y="100.08733"><tspan
+           x="61.671593"
+           y="100.08733"
+           sodipodi:role="line"
+           id="tspan3622-4-59-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.352692">Date and Time Setting</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975616,1.0002439)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3632-8-7-7"
+         x="40.645695"
+         y="105.83562"><tspan
+           x="40.645695"
+           y="105.83562"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4598-3-6">Time:18:30:00</tspan><tspan
+           x="40.645695"
+           y="110.27979"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4789-5">Date:04/10/23</tspan><tspan
+           x="40.645695"
+           y="114.72397"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4791-6">TZ W 05:00 DST-Now:S</tspan><tspan
+           x="40.645695"
+           y="119.16814"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4793-9">+/- =Edit   ENT=Yes</tspan></text>
+      <g
+         id="g4046-2-6-3"
+         transform="matrix(0.45775994,0,0,-0.46249236,39.367091,121.3384)"
+         style="stroke:#000000">
+        <path
+           d="M 0,0 H 99.617 V 42.336 H 0 Z"
+           style="fill:none;stroke:#000000;stroke-width:0.882;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path4048-7-5-7" />
+      </g>
+    </g>
+    <g
+       id="g1349">
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975705,1.000243)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3624-0-11-5-4"
+         x="61.679348"
+         y="127.58807"><tspan
+           x="61.679348"
+           y="127.58807"
+           sodipodi:role="line"
+           id="tspan3622-4-59-4-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.352692">Setup or Resume</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="scale(0.99975616,1.0002439)"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+         id="text3632-8-7-7-4"
+         x="40.653454"
+         y="133.33633"><tspan
+           x="40.653454"
+           y="133.33633"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4598-3-6-4">1=Resume From</tspan><tspan
+           x="40.653454"
+           y="137.7805"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4789-5-3">     Last Position</tspan><tspan
+           x="40.653454"
+           y="142.22469"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4791-6-0" /><tspan
+           x="40.653454"
+           y="146.66885"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+           id="tspan4793-9-7">2=New Setup</tspan></text>
+      <g
+         id="g4046-2-6-3-8"
+         transform="matrix(0.45775994,0,0,-0.46249236,39.374846,148.84583)"
+         style="stroke:#000000">
+        <path
+           d="M 0,0 H 99.617 V 42.336 H 0 Z"
+           style="fill:none;stroke:#000000;stroke-width:0.882;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path4048-7-5-7-6" />
+      </g>
+    </g>
+  </g>
+</svg>

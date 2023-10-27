@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="24mm"
+   viewBox="0 0 50 24"
+   version="1.1"
+   id="svg4209"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="AP_menu-objects.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4211"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.2470683"
+     inkscape:cx="108.86744"
+     inkscape:cy="60.824098"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4454-5" />
+  <defs
+     id="defs4206" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.864166,-38.802425)">
+    <g
+       id="g4882"
+       transform="translate(0.39181562,-1.563351)">
+      <g
+         id="g5197"
+         transform="translate(-0.46487529,-7.7220935)">
+        <g
+           id="g4454-5"
+           transform="translate(-10.818303,-27.782176)">
+          <g
+             id="g319"
+             transform="translate(-0.75425976,-5.2733254)">
+            <text
+               xml:space="preserve"
+               transform="scale(0.99975616,1.0002439)"
+               style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352692"
+               id="text3632-8"
+               x="50.990623"
+               y="87.435112"><tspan
+                 x="50.990623"
+                 y="87.435112"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#000000;stroke-width:0.352692"
+                 id="tspan4380-7"><tspan
+   style="font-size:3.88056px"
+   id="tspan444">&lt;</tspan>=<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code'"
+   id="tspan440">Object    RA/DEC</tspan>=<tspan
+   style="font-size:3.88056px"
+   id="tspan448">&gt;</tspan></tspan><tspan
+                 x="50.990623"
+                 y="92.011581"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+                 id="tspan4594">1=M   4=Sol  7=R/D</tspan><tspan
+                 x="50.990623"
+                 y="96.455757"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+                 id="tspan4596">2=NGC 5=Strs 8=Tour</tspan><tspan
+                 x="50.990623"
+                 y="100.89993"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;stroke-width:0.352692"
+                 id="tspan4598">3=IC  6=More 9=AlAz</tspan></text>
+            <g
+               id="g4046-2"
+               transform="matrix(0.45776015,0,0,-0.46250043,49.709442,102.93358)"
+               style="stroke:#000000">
+              <path
+                 d="M 0,0 H 99.617 V 42.336 H 0 Z"
+                 style="fill:none;stroke:#000000;stroke-width:0.882;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 id="path4048-7" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
