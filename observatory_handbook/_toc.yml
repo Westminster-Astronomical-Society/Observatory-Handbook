@@ -1,0 +1,32 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: Introduction
+    numbered: False
+    chapters:
+    - file: 0_introduction
+  - caption: Observatory Operations
+    numbered: True
+    chapters:
+    - file: 1_before_observing
+    - file: 2_opening_and_closing
+    - file: 3_visual_observation
+    - file: 4_solar_observation
+    - file: 5_imaging_and_astrophotography
+    - file: 6_telescope_alignment
+    - file: 7_problems_and_troubleshooting
+  - caption: Appendices
+    numbered: False
+    chapters:
+    - file: a_observation_logs
+    - file: b_hand_controller
+    - file: c_object_database
+    - file: d_resources
+  - caption: End Matter
+    numbered: False
+    chapters:
+    - file: reference
+    - file: colophon
